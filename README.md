@@ -38,9 +38,11 @@ The three way split has 33 leaves.
 
 ![image](https://user-images.githubusercontent.com/69835617/215863186-1cce84c9-6c6f-472b-b089-13dfe14dcb2f.png)
 
-![image](https://user-images.githubusercontent.com/69835617/215863203-fc2bd909-7ae5-4a7e-9b01-5faa9e600a60.png)
+
 
 ### Decision Tree 
+
+![image](https://user-images.githubusercontent.com/69835617/215863203-fc2bd909-7ae5-4a7e-9b01-5faa9e600a60.png)
 
 -  Based on the average square error, which of the decision tree models appears to be better?
 
